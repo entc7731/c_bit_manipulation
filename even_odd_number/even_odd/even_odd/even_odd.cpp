@@ -4,7 +4,6 @@ int main()
 {
     int a = 0;
 
-    printf("\n Enter a number : ");
     scanf_s("%d", &a);
 
     // Below method is used because modulus method is costly (requires more power and time to execucte)
